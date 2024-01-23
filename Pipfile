@@ -8,6 +8,7 @@ numpy = "*"
 requests = "*"
 pandas = "*"
 opencv-python-headless = "*"
+pyarrow = "*"
 
 [dev-packages]
 ipykernel = "*"
