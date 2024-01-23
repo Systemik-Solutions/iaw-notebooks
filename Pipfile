@@ -4,10 +4,10 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-opencv-python = "*"
 numpy = "*"
 requests = "*"
 pandas = "*"
+opencv-python-headless = "*"
 
 [dev-packages]
 ipykernel = "*"
